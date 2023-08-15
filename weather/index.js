@@ -1,6 +1,6 @@
 const api ={
     endpoint:"https://api.openweathermap.org/data/2.5/",
-    key:"a4d3ce08e4b00f05d3bec0b3c3311e3b"
+    key:"aff61ee6c9ae7a13481d0837430b71a9"
 }
 
 const input=document.querySelector("#input");
